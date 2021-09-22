@@ -4,8 +4,8 @@
 
 class Translation(object):
     
-    START_TEXT = """<b><u>Hey {} HOW ARE YOU ?...!!</b></u>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b> Hey {} HOW ARE YOU ?...!!</b>
+<i> I Am Just A Advance Auto Filter Bot....😉
 
 You Can't add me to your group 😌
 
