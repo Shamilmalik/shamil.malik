@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = “ /n JOIN NOW✅️-https://t.me/joinchat/0B7v3NByJNQ5MGVl”,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🏅MAIN CHANNEL', url="https://t.me/joinchat/0B7v3NByJNQ5MGVl"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('CHANNEL', url='https://t.me/joinchat/0B7v3NByJNQ5MGVl'),
+        InlineKeyboardButton('GROUP', url ='https://t.me/joinchat/X9hGQQb8zdAzN2U1')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/0B7v3NByJNQ5MGVl')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
