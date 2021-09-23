@@ -28,7 +28,7 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"{file_name} /n JOIN NOW✅️ - https://t.me/joinchat/0B7v3NByJNQ5MGVl",
+                caption = <b> f"{file_name} \n. \nJOIN NOW✅️ - https://t.me/joinchat/0B7v3NByJNQ5MGVl", </b>
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
