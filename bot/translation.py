@@ -17,5 +17,5 @@ For More Details Click Help Button Below..
 <b><i><u>GET LOST IAM Different bot u know😤!?</u></i></b>
 """
     
-    ABOUT_TEXT = """ I AM A ADVANCED BOT DEVELOPED BY Shamilmalik_10
+    ABOUT_TEXT = """ I AM A ADVANCED BOT DEVELOPED BY @Shamilmalik_10
 """
