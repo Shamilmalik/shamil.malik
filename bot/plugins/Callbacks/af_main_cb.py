@@ -431,7 +431,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/CrazyBotsz'),
             InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardButton('My Developer👨‍🔬', url='https://t.me/Shamilmalik_10')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
