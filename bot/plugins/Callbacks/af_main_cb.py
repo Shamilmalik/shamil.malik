@@ -429,7 +429,7 @@ async def callback_data(bot, update: CallbackQuery):
     if query_data == "start":
         buttons = [[
             InlineKeyboardButton('⭕️CHANNEL⭕️', url='https://t.me/joinchat/0B7v3NByJNQ5MGVl'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+            InlineKeyboardButton('🏅GROUP🏅', url ='https://t.me/joinchat/X9hGQQb8zdAzN2U1')
         ],[
             InlineKeyboardButton('My Developer👨‍🔬', url='https://t.me/Shamilmalik_10')
         ],[
