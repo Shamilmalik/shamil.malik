@@ -9,7 +9,8 @@ class Translation(object):
 
 You Can't add me to your group 😌
 
-For More Details Click Help Button Below..
+SO, Don't waste your time😏
+
 @cinemalokammovierequestgroup
 </i>"""    
     
