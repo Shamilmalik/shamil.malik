@@ -17,13 +17,5 @@ For More Details Click Help Button Below..
 <b><i><u>GET LOST IAM Different bot u know😤!?</u></i></b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
-    
-<b>➥ Creator</b> : <b><i><a href="https://t.me/joinchat/0B7v3NByJNQ5MGVl">CINEMA LOKAM</a></i></b>
-
-<b>➥ Language</b> : <code>Python3</code>
-
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
-
-<b>➥ Source Code</b> : <i><a href="https://github.com/Shamilmalik/shamil.malik">Click Me</a></i>
+    ABOUT_TEXT = """ I AM A ADVANCED BOT DEVELOPED BY Shamilmalik_10
 """
