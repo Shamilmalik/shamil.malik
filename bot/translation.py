@@ -15,7 +15,7 @@ SO, Don't waste your time😏
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>GET LOST IAM Different bot u know😤!?</u></i></b>
+<b><i><u> No One Gonna Help you 🤣🤣</u></i></b>
 """
     
     ABOUT_TEXT = """ I AM AN ADVANCED AUTO FILTER BOT DEVELOPED BY @Shamilmalik_10 🦾
